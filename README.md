@@ -2,6 +2,7 @@
 <h3 align="center">An aspiring Web Developer</h3>
 
 - 🌱 I’m currently learning **Python,Pytorch**
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikmaa&show_icons=true&locale=en" alt="mikmaa" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
