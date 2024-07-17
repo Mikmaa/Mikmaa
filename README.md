@@ -1,9 +1,9 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Mikmaa</h1>
+<h3 align="center">An aspiring Web Developer</h3>
+
+
+# 💫 About Me: 
 🔭 I’m currently working on AI automation<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning Python and PyTorch
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mikma Tamang) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mikma Tamang ) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
